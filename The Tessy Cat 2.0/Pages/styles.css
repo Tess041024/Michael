@@ -1,0 +1,120 @@
+    nav {
+    	text-align: center;
+    }
+    div {
+    	justify-content: center;
+	    display: block;
+		text-align: center;
+		
+
+
+    }
+    img {
+    	border-style: ridge;
+    }
+   
+    
+    body {
+    	background-color: #aec9f5;
+    }
+    
+    h2 {
+    	text-align: center;
+    	color: red;
+    	font-family: serif;
+    	
+    }
+    
+    h1 {
+    	border-style: outset;
+    	font-family: cursive;
+    	text-shadow: black;
+    	}
+
+
+    
+    p {
+    	border-style: groove;
+    }
+
+	#nol {
+		text-shadow: black;
+	}
+
+     
+    .click {
+    	background-color: #04AA6D;
+
+    } /* Green */
+    .click:hover {
+    	background-color:#90f538
+    }
+    .none {
+    	background-color: #05f2bf;
+
+    }
+    .none:hover {
+    	background-color: #5931eb;
+    }
+
+    
+    
+    .put {
+    	background-color: #f44336;
+    } /* Red */
+    .put:hover {
+    	background-color:#fa8314
+
+    }
+    .for {
+    	background-color: #e02841;
+    }
+    
+	
+	#three {
+		text-align: center;
+	}
+	
+	
+
+	#have {
+		text-align: center;
+	}
+
+	#more {
+		align-self: center;
+
+	}
+	.img {
+		align: center;
+	}
+	#used:hover {
+		background-color: #9fa6e3;
+	}
+
+
+
+	
+	
+
+	#one {
+		justify-content: center;
+	    display: block;
+		text-align: center;
+	}
+	#pill {
+		justify-content: center;
+		display: block;
+		text-align: center;
+		text-shadow: black;
+
+	}
+	#wou {
+		color: #212110;
+
+	}
+	#cash {
+		color: #f0f00e;
+	}
+	
+ 
